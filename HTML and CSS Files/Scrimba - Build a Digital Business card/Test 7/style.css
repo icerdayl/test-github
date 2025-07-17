@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+}
+
+.pic{
+    width: 150px;
+}
+
+.card{
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.border{
+    border: blue 5px dotted;
+}
+
