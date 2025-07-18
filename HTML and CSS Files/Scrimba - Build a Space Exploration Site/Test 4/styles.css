@@ -1,0 +1,39 @@
+body {
+    color: #82a5ca;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0;
+}
+
+.hero{
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhiMDhhZTFxOGpmd3B5c2Nkc2o1a2Z3dW13eWc5OG02enA3bmRuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+
+.btn{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #82a5ca;
+
+}
+
+.underline{
+    border-bottom: 4px solid white;
+    padding-bottom: 1px;
+}
+
+#logo{
+    width: 500px;
+    justify-content: center;
+    margin-bottom: -50px;
+}
