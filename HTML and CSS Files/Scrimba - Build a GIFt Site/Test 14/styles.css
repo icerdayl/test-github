@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+    color: white;
+    margin: 5px;
+    padding: 100px 0;
+    background: #e5383b;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+div:hover {
+    background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXkzcWdxcTQ0ZjRjN21vYXMzeTJsZTFydHpoYml1a3Z5cXBocHplcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lxxOGaDRk4f7R5TkBd/giphy.webp");
+}

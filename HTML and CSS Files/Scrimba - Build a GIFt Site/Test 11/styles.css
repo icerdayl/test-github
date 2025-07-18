@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    color: #ffffff;
+    background-color:#a2d2ff ;
+    font-family: "Happy Monkey", system-ui;
+    font-weight: normal;
+    font-style: normal;
+
+}
+#bron {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #EFB0C9;
+    margin-bottom: 10px;
+}
+
+
+#age {
+    background: #EFB0C9;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+#date {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

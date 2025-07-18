@@ -1,0 +1,127 @@
+body{
+    text-align: center;
+    color: #552583;
+    font-family: "Happy Monkey", system-ui;
+    font-weight: normal;
+    font-style: normal;
+    background: linear-gradient(#FDB927,#984be0) 
+}
+#bron {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #552583;
+    margin-bottom: 10px;
+}
+
+
+
+#age {
+    background: #fff78c;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+#date {
+    background: #fff78c;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+.gift-img {
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/011/954/526/non_2x/illustration-of-a-gift-pattern-purple-wrapping-paper-vector.jpg");
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.gift-img:hover{
+    background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA0ZjI2ejd5ZDVnbjYxeG15bmR6MzRwZnQ0OGEyeHR5YTVrbnF1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IglQkzvuewsoD6E1Pj/giphy.webp");
+}
+
+.gift2 {
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/011/954/526/non_2x/illustration-of-a-gift-pattern-purple-wrapping-paper-vector.jpg");
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.gift2:hover{
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejV6MHdkejAxYnlhZnJwdDlxMTJwbHVibmp1dWM1ZHRqdWZrdmNnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IzHuxmuJ6A6aTAdKYK/giphy.webp");
+
+}
+.gift3 {
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/011/954/526/non_2x/illustration-of-a-gift-pattern-purple-wrapping-paper-vector.jpg");
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.gift3:hover{
+    background-image: url("https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2YzeWM3N3Ntemt1YmhiZjliOXptN3Q5NjZhdTdybWlueXMzNmk0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kMe2V0zda1Cqj9Ye5h/200.webp");
+}
+.gift4 {
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/011/954/526/non_2x/illustration-of-a-gift-pattern-purple-wrapping-paper-vector.jpg");
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.gift4:hover{
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA0ZjI2ejd5ZDVnbjYxeG15bmR6MzRwZnQ0OGEyeHR5YTVrbnF1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o85xvSx4BOTYs8gNy/200.webp");
+}
+.gift5{
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/011/954/526/non_2x/illustration-of-a-gift-pattern-purple-wrapping-paper-vector.jpg");
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    margin: 0 auto; 
+}
+.gift5:hover{
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXMzM2YzcjhvcnV5OGU2dzY4cmN4YTd2cXIwYnkwMnFhdGZ3aDUxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HAd0YHRvQf6Gk/200.webp");
+}
+
+footer{
+    text-align: center;
+    color: #552583;
+    font-family: "Happy Monkey", system-ui;
+    font-weight: normal;
+    font-style: normal;
+    margin: 50px auto;
+    background:  #984be0;
+}
+
+a{
+    color: #552583;
+}
